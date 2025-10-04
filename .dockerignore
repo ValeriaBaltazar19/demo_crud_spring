@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas innecesarios para la imagen Docker
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/.*
+**/*.iml
+.idea/
+*.log
+*.md
